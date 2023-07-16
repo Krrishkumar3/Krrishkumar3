@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krrishkumar3
+- 👋 Hi, I’m Krrish Kumar
 - 👀 I’m interested in problem solving.
 - 🌱 I’m currently learning C programming.
 - 📫 How to reach me kumarkrrish724@gmail.com
