@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krrish Kumar
 - 👀 I’m interested in problem solving.
-- 🌱 I’m currently learning C programming.
+- 🌱 I’m currently learning DSA and web development.
 - 📫 How to reach me kumarkrrish724@gmail.com
 
 <!---
